@@ -1,1 +1,1 @@
-token = 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
+tok = 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
